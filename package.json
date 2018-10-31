@@ -7,8 +7,10 @@
     "aws-xray-sdk": "^2.0.1",
     "body-parser": "^1.18.3",
     "dynamoose": "^1.1.0",
+    "es6-promise": "^4.2.5",
     "express": "^4.16.4",
     "helmet": "^3.14.0",
+    "isomorphic-fetch": "^2.2.1",
     "serverless-http": "^1.7.2",
     "uuid": "^3.3.2"
   },
