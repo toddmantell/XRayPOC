@@ -4,6 +4,7 @@
   "description": "a poc for testing aws xray",
   "main": "server.js",
   "dependencies": {
+    "aws-sdk": "^2.356.0",
     "aws-xray-sdk": "^2.0.1",
     "body-parser": "^1.18.3",
     "dynamoose": "^1.1.0",
